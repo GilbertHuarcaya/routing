@@ -1,0 +1,9 @@
+.pricing {
+  text-decoration: none;
+  flex-grow: 2;
+  text-align: center;
+  padding: 0.5rem;
+  height: 1.5rem;
+  background-color: lightblue;
+  color: black;
+}
